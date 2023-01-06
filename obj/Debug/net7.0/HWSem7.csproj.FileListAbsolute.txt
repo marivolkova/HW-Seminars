@@ -1,0 +1,15 @@
+/Users/marinavolkova/Desktop/C#HW/HWSem7/bin/Debug/net7.0/HWSem7
+/Users/marinavolkova/Desktop/C#HW/HWSem7/bin/Debug/net7.0/HWSem7.deps.json
+/Users/marinavolkova/Desktop/C#HW/HWSem7/bin/Debug/net7.0/HWSem7.runtimeconfig.json
+/Users/marinavolkova/Desktop/C#HW/HWSem7/bin/Debug/net7.0/HWSem7.dll
+/Users/marinavolkova/Desktop/C#HW/HWSem7/bin/Debug/net7.0/HWSem7.pdb
+/Users/marinavolkova/Desktop/C#HW/HWSem7/obj/Debug/net7.0/HWSem7.csproj.AssemblyReference.cache
+/Users/marinavolkova/Desktop/C#HW/HWSem7/obj/Debug/net7.0/HWSem7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinavolkova/Desktop/C#HW/HWSem7/obj/Debug/net7.0/HWSem7.AssemblyInfoInputs.cache
+/Users/marinavolkova/Desktop/C#HW/HWSem7/obj/Debug/net7.0/HWSem7.AssemblyInfo.cs
+/Users/marinavolkova/Desktop/C#HW/HWSem7/obj/Debug/net7.0/HWSem7.csproj.CoreCompileInputs.cache
+/Users/marinavolkova/Desktop/C#HW/HWSem7/obj/Debug/net7.0/HWSem7.dll
+/Users/marinavolkova/Desktop/C#HW/HWSem7/obj/Debug/net7.0/refint/HWSem7.dll
+/Users/marinavolkova/Desktop/C#HW/HWSem7/obj/Debug/net7.0/HWSem7.pdb
+/Users/marinavolkova/Desktop/C#HW/HWSem7/obj/Debug/net7.0/HWSem7.genruntimeconfig.cache
+/Users/marinavolkova/Desktop/C#HW/HWSem7/obj/Debug/net7.0/ref/HWSem7.dll
